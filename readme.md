@@ -3,6 +3,9 @@
 
 Faceplate to mount on a case for carrying a PIC development board, WARP-13a programmer board as well as a current meter and a couple of switches. Power supply fits underneath.
 
+The case used is a console style TEKO 364.8
+
+
 ###License
 
 [BSD](LICENSE-BSD.txt) for software
